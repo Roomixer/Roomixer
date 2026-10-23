@@ -1,3 +1,4 @@
+<p align="center"><img src="banner.png" alt="Roomixer" width="100%"/></p>
 <div align="center">
 <h1><b>Hi, I'm Joel Shajan 👋</b></h1>
 <h3><b>Game Developer — Gameplay Programming · Technical Animation · World Building</b></h3>
