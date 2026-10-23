@@ -1,7 +1,7 @@
 <div align="center">
 <h1><b>Hi, I'm Joel Shajan 👋</b></h1>
 <h3><b>Game Developer — Gameplay Programming · Technical Animation · World Building</b></h3>
-<p>📍 Bangalore, India &nbsp;·&nbsp; 🎮 Unreal Engine 5 \&amp; C++ &nbsp;·&nbsp; 💼 Open to work</p>
+<p>📍 Bangalore, India &nbsp;·&nbsp; 🎮 Unreal Engine 5 &amp; C++ &nbsp;·&nbsp; 💼 Open to work</p>
 </div>
 <br/>
 <h2 align="center"><b>🎯 About Me</b></h2>
